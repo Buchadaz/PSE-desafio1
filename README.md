@@ -1,2 +1,14 @@
 # PSE-desafio1
-Função que recebe um inteiro positivo e retorna o somatório de todos os valores inteiros divisiveis por 3 ou 4 e que sejam inferiores ao valor recebido.
+
+# Descrição:
+
+- Função que recebe um inteiro positivo e retorna o somatório de todos os valores inteiros divisiveis por 3 ou 4 e que sejam inferiores ao valor recebido.
+
+- A função criado foi nomeada como "somaInt", utilizando o dart como linguagem de programação.
+
+# Método de execução:
+
+- Para os dados serem apresentados no cmd/terminal do vsc foi utilizado readline;
+
+- No terminal do VSC dar o comando "dart run" para executar o programa proposto no desafio.
+
