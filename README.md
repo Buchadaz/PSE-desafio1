@@ -2,7 +2,7 @@
 
 # Descrição:
 
-- Função que recebe um inteiro positivo e retorna o somatório de todos os valores inteiros divisiveis por 3 ou 4 e que sejam inferiores ao valor recebido.
+- Função que recebe um inteiro positivo e retorna o somatório de todos os valores inteiros divisiveis por 3 ou 5 e que sejam inferiores ao valor recebido.
 
 - A função criado foi nomeada como "somaInt", utilizando o dart como linguagem de programação.
 
