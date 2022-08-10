@@ -8,6 +8,8 @@
 
 # Método de execução:
 
+- Iniciar o .dart: escribo-dart/desafio1.dart
+
 - Para os dados serem apresentados no cmd/terminal do vsc foi utilizado readline;
 
 - No terminal do VSC dar o comando "dart run" para executar o programa proposto no desafio.
